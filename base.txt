@@ -1,0 +1,94 @@
+50 Noms de créatures pour le jeu :
+
+Type Feu :
+
+    Pyrolisk
+    Flamara
+    Volcanyx
+    Igniflare
+    Charbère
+
+Type Eau :
+
+    Aquafyn
+    Maristol
+    Hyrava
+    Nautilor
+    Océara
+
+Type Plante :
+
+    Florivy
+    Branchelon
+    Tropivy
+    Verdignis
+    Arbormyst
+
+Type Électrique :
+
+    Zappix
+    Boltano
+    Sparktus
+    Chargale
+    Electrixie
+
+Type Air :
+
+    Ventraptor
+    Skyvora
+    Zephyro
+    Aerodust
+    Windrelle
+
+Type Glace :
+
+    Cryonix
+    Frystar
+    Glacione
+    Icyanix
+    Neviros
+
+Type Ombre :
+
+    Spectrana
+    Duskorn
+    Teneborn
+    Umbrosaur
+    Phantoxis
+
+Type Acier :
+
+    Ferronyx
+    Metalord
+    Chromidon
+    Stelladon
+    Magnevril
+
+Type Dragon :
+
+    Dracolythe
+    Wyveris
+    Hydraxa
+    Scalithor
+    Dragorb
+
+Type Magique :
+
+    Lumivelle
+    Mystarion
+    Enchanta
+    Runeflare
+    Arcanis
+
+Nom pour les Pokéballs :
+
+    MonstroGlobe
+    CaptureSphere
+    TameOrb
+    BestiBall
+    MystiBall
+    PrismoPod
+    ArcaSphere
+    DominoGlobe
+    AstraBall
+    LegendCatch

@@ -1,0 +1,5 @@
+Narration : Cyan pour ambiance immersive.
+Dialogues : Violet pour différencier les personnages.
+Actions : Vert pour succès ou actions.
+Avertissements : Rouge pour erreurs ou attention.
+Menu & Options : Utilisation de jaune, bleu, et vert pour des choix clairs.
